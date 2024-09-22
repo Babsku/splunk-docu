@@ -1,0 +1,13 @@
+status,status_name
+200,okay
+503,service unavailable
+408,Request Time out
+500,Internal Server Error
+406,Not acceptable
+400,Bad request
+404,Not found
+505,Http version not supported
+403,Forbidden
+301,Moved Permanently
+302,Found
+401,Unauthorised
